@@ -14,9 +14,6 @@ for image_file in ["Plaksha_Faculty.jpg", "Dr_Shashi_Tharoor.jpg"]:
     if img is None:
         print(f"Error loading {image_file}")
     else:
-        print(f"Successfully loaded {image_file}")
-        cv2.imshow(f"Preview: {image_file}", img)
-        cv2.waitKey(1000)
-        cv2.destroyAllWindows()
+        print(f"Successfully loaded {image_file} (Dimensions: {img.shape})")
 
 print("File verification complete.")
