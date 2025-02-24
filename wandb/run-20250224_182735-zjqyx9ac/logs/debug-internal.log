@@ -25,3 +25,17 @@
 {"time":"2025-02-24T18:39:51.5467054+05:30","level":"INFO","msg":"Pausing system monitor"}
 {"time":"2025-02-24T18:40:04.6492422+05:30","level":"INFO","msg":"Resuming system monitor"}
 {"time":"2025-02-24T18:40:05.1378452+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T19:09:39.4438318+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-24T19:10:11.5443276+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-24T19:10:46.2194287+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-24T19:11:39.5181676+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-24T19:13:39.5706909+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-24T19:13:41.5248665+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/raghavsarna1/face_detection_project/zjqyx9ac/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-02-24T19:19:56.2124423+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T19:19:57.0866024+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-02-24T19:19:58.1430532+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T19:25:09.0813679+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-24T19:25:10.5134236+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-24T19:44:42.9129997+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-24T19:46:22.0296922+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-24T19:47:42.9734973+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raghavsarna1/face_detection_project/zjqyx9ac/file_stream\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}

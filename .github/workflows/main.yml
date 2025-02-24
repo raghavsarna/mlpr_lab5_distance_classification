@@ -16,10 +16,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install opencv-python-headless jupyter nbconvert matplotlib numpy==1.24.3 scikit-learn scipy wandb==0.12.21
+          pip install opencv-python-headless jupyter nbconvert matplotlib numpy scikit-learn scipy wandb
 
       - name: Run file verification script
         run: python action_file.py
 
       - name: Execute Jupyter Notebook
-        run: jupyter nbconvert --to notebook --execute "Lab 5-Spring 2025 (1).ipynb" --output "Lab 5-Spring 2025 (1)_executed.ipynb"
+        run: jupyter nbconvert --to notebook --execute "raghav_lab-5.ipynb" --output "executed.ipynb"
