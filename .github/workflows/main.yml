@@ -16,7 +16,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install opencv-python-headless jupyter nbconvert matplotlib numpy scikit-learn scipy wandb==0.12.21
+          pip install opencv-python-headless jupyter nbconvert matplotlib numpy==1.24.3 scikit-learn scipy wandb==0.12.21
 
       - name: Run file verification script
         run: python action_file.py
