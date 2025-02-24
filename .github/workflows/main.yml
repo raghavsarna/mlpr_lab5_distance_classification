@@ -16,10 +16,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install opencv-python-headless jupyter nbconvert
+          pip install opencv-python-headless jupyter nbconvert matplotlib numpy scikit-learn scipy
 
       - name: Run file verification script
-        run: python action_file.py
+        run: python verify_files.py
 
       - name: Execute Jupyter Notebook
         run: jupyter nbconvert --to notebook --execute "Lab 5-Spring 2025 (1).ipynb" --output "Lab 5-Spring 2025 (1)_executed.ipynb"
