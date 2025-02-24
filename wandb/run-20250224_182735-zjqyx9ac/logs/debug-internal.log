@@ -1,0 +1,7 @@
+{"time":"2025-02-24T18:27:36.0270462+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"d:\\Plaksha\\Semester 4\\MLPR\\Lab\\Lab5\\distance_classification\\wandb\\run-20250224_182735-zjqyx9ac\\logs\\debug-core.log"}
+{"time":"2025-02-24T18:27:36.5683875+05:30","level":"INFO","msg":"created new stream","id":"zjqyx9ac"}
+{"time":"2025-02-24T18:27:36.5683875+05:30","level":"INFO","msg":"stream: started","id":"zjqyx9ac"}
+{"time":"2025-02-24T18:27:36.5683875+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zjqyx9ac"}
+{"time":"2025-02-24T18:27:36.5683875+05:30","level":"INFO","msg":"sender: started","stream_id":"zjqyx9ac"}
+{"time":"2025-02-24T18:27:36.5683875+05:30","level":"INFO","msg":"handler: started","stream_id":"zjqyx9ac"}
+{"time":"2025-02-24T18:27:37.0859023+05:30","level":"INFO","msg":"Starting system monitor"}

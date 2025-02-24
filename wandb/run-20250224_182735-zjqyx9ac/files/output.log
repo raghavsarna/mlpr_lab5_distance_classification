@@ -1,0 +1,20 @@
+No such comm: efbb0158693f49daa543394324ca0f75
+No such comm: 29104b6a4faf4161ad076cfe5c14dfc6
+No such comm: 2e6cf67afe144f639e643eb52837d1d5
+No such comm: 860817faf10b43d59f0c3ee6616bb597
+No such comm: 1d6768dfa8b344c88d916b51b589dbe8
+No such comm: c128b58ed7384828822c38c658547cc3
+No such comm: ac90d5e677b3492891428fdb49ef45f0
+No such comm: e74270d9147246ac92132071a662f255
+No such comm: 2b99ab2f75d04093892ee5768eac9bed
+No such comm: d3657758febc459aa674361f2134ff41
+No such comm: b0837667b875421982264433f048fa1d
+No such comm: 1859ea384845484bbdb0ce6783bf75a8
+No such comm: 315f793ce6b64cf99f22e70a1424b670
+No such comm: 99d2265a71d6463bbc1c0ec1c14773ca
+No such comm: 0573bd9425854d01b2fbe7258d2844dc
+No such comm: 9a7070023d5444109d5c09d23ed915b5
+c:\Users\Dell\anaconda3\Lib\site-packages\pandas\core\arrays\masked.py:60: UserWarning: Pandas requires version '1.3.6' or newer of 'bottleneck' (version '1.3.5' currently installed).
+  from pandas.core import (
+c:\Users\Dell\anaconda3\Lib\site-packages\sklearn\cluster\_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(

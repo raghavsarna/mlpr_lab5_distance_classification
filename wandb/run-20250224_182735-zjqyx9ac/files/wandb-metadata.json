@@ -1,0 +1,29 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "CPython 3.11.4",
+  "startedAt":  "2025-02-24T12:57:36.022935Z",
+  "program":  "<python with no main file>",
+  "git":  {
+    "remote":  "https://github.com/raghavsarna/mlpr_lab5_distance_classification.git",
+    "commit":  "be715021bf34c16faf4ef9c7521203c0f85f0f15"
+  },
+  "email":  "raghavsarna123@gmail.com",
+  "root":  "d:\\Plaksha\\Semester 4\\MLPR\\Lab\\Lab5\\distance_classification",
+  "host":  "DESKTOP-1UPQ31U",
+  "executable":  "c:\\Users\\Dell\\anaconda3\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "247462883328",
+      "used":  "191586906112"
+    }
+  },
+  "memory":  {
+    "total":  "16910155776"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}
